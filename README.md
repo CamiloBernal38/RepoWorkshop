@@ -7,35 +7,9 @@ Siga los pasos a continuación para prepararse.
 
 ### 1 - Realiza Fork al Repositorio Origen
 
-   1. Visita https://github.com/cctovar/lorem_ipsum.
-   2. Click en el botón "fork" y elija su cuenta personal de GitHub si le solicita.
-
 ---
 
 ### 2 - Clona tu Fork
-
-Clona este proyecto en tu máquina:
-```sh
-$ cd ~/my/parent/directory
-$ git clone https://github.com/tu-usuario/lorem_ipsum.git
-# clona el repositorio
-
-$ cd repo-name
-# cambia el directorio de trabajo al repositorio clonado
-```
-
-Ver controles remotos existentes:
-```sh
-$ git remote
-origin
-
-$ git remote -v
-origin https://github.com/username-source/repository-name.git (fetch)
-origin https://github.com/username-source/repository-name.git (push)
-```
-
-
-# Una vez descargado el proyecto, ya estas listo para empezar!!
 
 
 ## Ejercicio
